@@ -1,0 +1,18 @@
+p {
+    text-align: left;
+	font-family: "Times New Roman";
+	font-style: italic;
+	font-size: 14px;
+	font-weight: bold;
+}
+body {
+}
+img {
+	height: 250px;
+	width: 100px;
+	
+}
+p.redRound {
+	border: 1px solid red;
+	border-radius: 5px;
+}
